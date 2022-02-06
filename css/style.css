@@ -1,0 +1,10 @@
+/* ここからreset CSS */
+. {
+  margin: 0;
+  box-sizing: border-box;
+}
+.body {
+  height: 100%;
+  line-height: 1,5;
+}
+/* ここまでreset CSS */
