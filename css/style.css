@@ -1,9 +1,9 @@
 /* ここからreset CSS */
-. {
+*{
   margin: 0;
   box-sizing: border-box;
 }
-.body {
+body {
   height: 100%;
   line-height: 1,5;
 }
